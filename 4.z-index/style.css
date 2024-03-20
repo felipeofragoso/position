@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+  }
+  
+  h1{
+    background: lightyellow;
+    padding: 10px;
+    margin: 10px;
+  }
+
+  .z-index1{
+    background: lightskyblue;
+    position: relative;
+    top: 30px;
+    z-index: ;
+  }
+
+  .z-index2 {
+    background: lightpink;
+    position: absolute;
+    top: 60px;
+  }
